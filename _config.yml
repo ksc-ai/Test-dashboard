@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: Test Dashboard
+description: A dashboard application for testing and monitoring
+show_downloads: true
+github:
+  repository_url: https://github.com/ksc-ai/Test-dashboard
